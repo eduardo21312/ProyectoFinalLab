@@ -1,0 +1,12 @@
+﻿  FinalP7.cpp
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\include\shader_m.h(44): warning C4101: 'e': variable local sin referencia
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\include\modelanim.h(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\include\modelanim.h(520): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(737): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(738): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(742): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(743): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(745): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(746): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\lalo_\documents\visual studio 2017\projects\cg2021_2_03\cg2021_2_03\finalp7.cpp(754): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  CG2021_2_03.vcxproj -> C:\Users\lalo_\Documents\Visual Studio 2017\Projects\CG2021_2_03\Debug\CG2021_2_03.exe
